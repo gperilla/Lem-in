@@ -1,0 +1,59 @@
+60
+##start
+A 5 10
+B 8 10
+##end
+C 11 10
+D 7 8
+E 9 8
+F 7 12
+G 9 12
+H 6 6
+I 8 6
+J 10 6
+K 6 14
+M 8 14
+N 10 14
+O 2 9
+P 4 4
+Q 12 4
+R 14 9
+S 2 11
+T 4 16
+U 12 16
+V 14 11
+A-B
+A-D
+A-F
+A-H
+A-K
+A-O
+A-S
+B-C
+C-E
+C-G
+C-J
+C-N
+C-R
+C-V
+D-E
+D-H
+E-J
+F-G
+F-K
+G-N
+H-I
+H-P
+I-J
+J-Q
+K-M
+K-T
+M-N
+O-P
+O-S
+P-Q
+Q-R
+R-V
+S-T
+T-U
+U-V
